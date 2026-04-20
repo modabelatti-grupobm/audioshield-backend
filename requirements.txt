@@ -1,6 +1,7 @@
 flask==3.0.3
 flask-cors==4.0.1
 numpy==1.26.4
-scipy==1.13.1
+scipy==1.12.0
 soundfile==0.12.1
 gunicorn==22.0.0
+ 
